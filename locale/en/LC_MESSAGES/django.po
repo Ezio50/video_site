@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-23 08:15+0000\n"
+"PO-Revision-Date: 2025-04-23 08:15+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Регистрация"
+msgstr "Registration"
+
+msgid "Вход"
+msgstr "Login"
+
+msgid "Список видео"
+msgstr "Video List"
+
+msgid "Загрузить видео"
+msgstr "Upload Video"
+
+msgid "Профиль"
+msgstr "Profile"
+
+msgid "Выйти"
+msgstr "Logout"
+
+msgid "Войти"
+msgstr "Login"
+
+msgid "Зарегистрироваться"
+msgstr "Register"
+
+msgid "Автор"
+msgstr "Author"
+
+msgid "Видео пока нет."
+msgstr "No videos yet."
+
+msgid "Загрузка видео"
+msgstr "Video Upload"
+
+msgid "Лайков"
+msgstr "Likes"
+
+msgid "Лайк"
+msgstr "Like"
+
+msgid "Комментарии"
+msgstr "Comments"
+
+msgid "Комментариев пока нет."
+msgstr "No comments yet."
+
+msgid "Добавить комментарий"
+msgstr "Add Comment"
+
+msgid "Войдите, чтобы оставить комментарий."
+msgstr "Log in to leave a comment."
+
+msgid "Мои видео"
+msgstr "My Videos"
+
+msgid "Загружено"
+msgstr "Uploaded"
+
+msgid "Вы еще не загрузили видео."
+msgstr "You haven't uploaded any videos yet."
+
+msgid "Нет аккаунта?"
+msgstr "No account?"
